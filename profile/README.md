@@ -1,6 +1,6 @@
 # Midnight Script
 
-![Midnight Script Banner](../../assets/banner.jpeg)
+![Midnight Script Banner](assets/banner.jpeg)
 
 Welcome to **Midnight Script**! We are a Software Development organization specializing in **Web Development**, **System Design**, **AI Tools**, and **Embedded Systems**.
 
